@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "matriz.sln",
+    "csharp.debug.console": "externalTerminal"
+}
